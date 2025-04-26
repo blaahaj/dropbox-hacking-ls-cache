@@ -1,6 +1,6 @@
 {
   "name": "@blaahaj/dropbox-hacking-ls-cache",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Maintain a local copy of all or part of a Dropbox directory listing",
   "main": "index.js",
   "scripts": {
